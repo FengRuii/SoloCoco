@@ -1,0 +1,7 @@
+gradio
+torch
+transformers
+requests
+langchain
+langgraph
+typing_extensions

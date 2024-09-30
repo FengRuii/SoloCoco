@@ -4,4 +4,6 @@ transformers
 requests
 langchain
 langgraph
+ChatOllama
+langchain_community
 typing_extensions

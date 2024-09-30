@@ -12,7 +12,7 @@ from langgraph.graph import END, StateGraph
 from typing_extensions import TypedDict
 import os
 
-local_llm = 'llama3'
+local_llm = 'llama3.2:1b'
 llama3 = ChatOllama(model=local_llm, temperature=0)
 llama3_json = ChatOllama(model=local_llm, format='json', temperature=0)
 

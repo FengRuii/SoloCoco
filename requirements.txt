@@ -3,7 +3,9 @@ torch
 transformers
 requests
 langchain
+langchain_community
 langgraph
 ChatOllama
 langchain_community
 typing_extensions
+ChatOllama
